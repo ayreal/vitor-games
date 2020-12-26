@@ -1,0 +1,106 @@
+// https://coolors.co/4d5057-4e6e5d-4da167-3bc14a-cfcfcf
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .line {
+    width: 100vw;
+  }
+  .left, .right {
+    width: 50vw;
+    overflow: hidden;
+    display: inline-block;
+  }
+  .left {
+    color: #00F2F2;
+    transform: skew(0deg, -15deg);
+  }
+  .right {
+    color: #096B72;
+    transform: skew(0deg, 15deg);
+  }
+  .left .content {
+    width: 100vw;
+    text-align: center;
+  }
+  .right .content {
+    width: 100vw;
+    text-align: center;
+    transform: translate(-50vw);
+  }
+  span {
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10vw;
+    text-transform: uppercase;
+    line-height: .8;
+    transition: ease-out .6s;
+  }
+
+  .contact {
+      background-color: #0075F2;
+      font-family: 'Raleway', sans-serif;
+  }
+
+
+// .perspective-text {
+//     font-family: 'Montserrat', sans-serif;
+//     font-size: 58px;
+//     font-weight: 900;
+//     letter-spacing: -2px;
+//     text-transform: uppercase;
+//     color: #00F2F2;
+//   }
+
+//   .perspective-line {
+//     height: 50px;
+//     overflow: hidden;
+//     position: relative;
+//   }
+
+//   .perspective-line:nth-child(odd) {
+//     transform: skew(60deg, -30deg) scaleY(0.667);
+//   }
+//   .perspective-line:nth-child(even) {
+//     // color: #096B72;
+//     transform: skew(0deg, -30deg) scaleY(1.333);
+//   }
+
+//   .perspective-line:hover p{
+//     transform: translate(0, -50px);
+//   }
+//   .perspective-line:nth-child(1) {
+//     left: 29px;
+//   }
+//   .perspective-line:nth-child(2) {
+//     left: 58px;
+//   }
+//   .perspective-line:nth-child(3) {
+//     left: 87px;
+//   }
+//   .perspective-line:nth-child(4) {
+//     left: 116px;
+//   }
+//   .perspective-line:nth-child(5) {
+//     left: 145px;
+//   }
+
+//   .perspective-line:hover p{
+//     transform: translate(0, -50px);
+//   }
+//   p {
+//     transition: all 0.5s ease-in-out;
+//   }
+
+//   p {
+//     margin: 0;
+//     height: 50px;
+//     line-height: 50px;
+//     transition: all 0.5s ease-in-out;
+//   }
