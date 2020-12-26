@@ -118,10 +118,6 @@ parcelRequire = (function (modules, cache, entry, globalName) {
 
   return newRequire;
 })({"index.js":[function(require,module,exports) {
-// The place I saw this effect:
-// https://angle2.agency/
-// Red Staper made a NICE tutorial about this effect! You should check it out!
-// https://www.youtube.com/watch?v=LgiadQQM6mo&t=5s
 window.addEventListener('mousemove', handleMouseMove);
 window.addEventListener('resize', handleWindowResize);
 var spansSlow = document.querySelectorAll('.spanSlow');
@@ -172,7 +168,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "60062" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "62407" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
