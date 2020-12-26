@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/style.97fcb138.css" type="text/css">
+    <link rel="preconnect" href="da9afb61e15e5caa1c8af2c6f046c478">
+    <link href="7a5148aaee99209ec72dc8d3392416a7" rel="stylesheet">
+    <link href="fc657ac1a5e944ae41b2d51e4376fe98" rel="stylesheet">
+    <link rel="stylesheet" href="e5ce662731727a09e3b4aa4a5708e34c" type="text/css">
     <title>Vitor de Magalhães | vitor.games</title>
-  <script src="/style.97fcb138.js"></script></head>
+  </head>
   <body>
     <div class="container">
       <section>
@@ -20,17 +20,17 @@
           </header>
           <nav class="box">
             <ul>
-              <li><a href="https://twitter.com/vitorsdm">Twitter</a></li>
+              <li><a href="c1997afdd96d258d2e04e7c6f053bfd1">Twitter</a></li>
               <li>
-                <a href="https://www.linkedin.com/in/vitordemagalhaes/">LinkedIn</a>
+                <a href="de809c10ce5074abea45d149b101b41a">LinkedIn</a>
               </li>
-              <li><a href="mailto:info@vitor.games">Contact</a></li>
+              <li><a href="3f8c8ed572ea81b4ecde49875fa8a248">Contact</a></li>
             </ul>
           </nav>
         </div>
         <p class="big-text">Games</p>
       </section>
     </div>
-    <script src="/vitor-games.e31bb0bc.js"></script>
+    <script src="37815f4d980df54f916153a949df12a9"></script>
   </body>
 </html>

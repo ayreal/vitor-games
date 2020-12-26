@@ -7,9 +7,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/style.97fcb138.css" type="text/css">
+    <link rel="stylesheet" href="/style.be34fe3f.css" type="text/css">
     <title>Vitor de Magalhães | vitor.games</title>
-  <script src="/style.97fcb138.js"></script></head>
+  </head>
   <body>
     <div class="container">
       <section>
@@ -31,6 +31,6 @@
         <p class="big-text">Games</p>
       </section>
     </div>
-    <script src="/vitor-games.e31bb0bc.js"></script>
+    <script src="/vitor-games.7944d8dd.js"></script>
   </body>
 </html>
